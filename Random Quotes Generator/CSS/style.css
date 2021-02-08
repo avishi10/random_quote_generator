@@ -1,0 +1,35 @@
+body{
+    width: 99%;
+    height: 99%;
+    text-align: center;
+    background-color: #feeafa;
+    color: #cbc0d3;
+    font-family: sans-serif;
+}
+.wrapper{
+    margin-top: 16%;
+}
+
+h3{
+    font-size: 43px;
+}
+h6{
+    font-size: 26px;
+    color:#8e9aaf;
+}
+button{
+    width: 139px;
+    font-size: 20px;
+    font-weight: 600;
+    height: 3em;
+    color: #fff;
+    border-radius: 7px;
+    background-image: linear-gradient(100deg, rgba(196, 208, 231, 1) 35%, rgba(233, 200, 195, 1) 65%, rgba(189, 213, 196, 1) 100%);
+    border: none;
+    outline: none;
+}
+button:hover{
+    width: 159px;
+    font-size: 23px;
+    background-image: linear-gradient(0deg, rgba(196, 208, 231, 1) 35%, rgba(233, 200, 195, 1) 65%, rgba(189, 213, 196, 1) 100%);
+}
